@@ -1,0 +1,202 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",13eme.rue
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2450.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",6ter
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2449.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",AB.Moteurs
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2448.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",AB1
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2447.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",AB3
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2446.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/xXRYZd6.png" group-title="Undefined",ARTE,FR | ARTE
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",ARTE
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2442.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Action
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2445.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/0RQvs8y.png" group-title="Undefined",Alpe d’Huez TV,FR | Alpe d’Huez TV
+https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Animaux
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2443.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Undefined",Antenne Réunion,FR | Antenne Réunion
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01&checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="Business",BFM Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="Undefined",BFM Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",BFMTV
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2431.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",BIP TV
+http://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="Undefined",BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Boing
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2430.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Boomerang
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2429.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",C8
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2427.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",CANAL
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2426.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/XjAxqDh.png" group-title="Undefined",CDirect,FR | CDirect
+http://cms-streamaniak.top/Cdirect/CDIRECT/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",CNews
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2411.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="Music;Undefined",CONTACT music,Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",CStar
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2408.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Canal.Cinema
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2425.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Canal.Series
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2423.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Canal.Sport
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2422.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Cartoon.Network
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2420.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Chasse.et.Pêche
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2419.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Cherie25
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2418.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",CineClub
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2416.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",CineEmotion
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2415.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",CinéClassic
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2417.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",CinéFamiz
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2414.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",CinéPremier
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2412.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Cinéfrisson
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2413.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Comedie
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2410.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Crime.District
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2409.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Undefined",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Undefined",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Undefined",D5 TV,FR | D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Music",D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY
+http://silvertv.net:1997/Majdi/Majdi123/9842?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY HD
+http://jockeriptv.com:8080/navaro/navaro/571?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY HD
+http://silvertv.net:1997/Majdi/Majdi123/5263?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://silvertv.net:1997/Majdi/Majdi123/9841?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://jockeriptv.com:8080/navaro/navaro/572?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE HD
+http://silvertv.net:1997/Majdi/Majdi123/5262?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://jockeriptv.com:8080/navaro/navaro/607?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY CINEMA HD
+http://jockeriptv.com:8080/navaro/navaro/600?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY CINEMA HD
+http://epiciptvrestreamer.com:8000/kami/kami/186?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY JUNIOR HD
+http://jockeriptv.com:8080/navaro/navaro/599?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY XD HD
+http://jockeriptv.com:8080/navaro/navaro/602?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY XD HD
+http://epiciptvrestreamer.com:8000/kami/kami/184?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",DISNEY.Junior
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2400.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2407.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery
+http://4k-sat.com:8000/Nasri/1234/6110?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery Family FHD FR
+http://tv.gloryiptv.itv.world:8080/fh41r35sss/ghtyuio67/16921?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery Investigation FHD FR
+http://tv.gloryiptv.itv.world:8080/fh41r35sss/ghtyuio67/9034?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery Science FHD FR
+http://tv.gloryiptv.itv.world:8080/fh41r35sss/ghtyuio67/5682?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery.family
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2406.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery.investigation
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2405.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Discovery.science
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2404.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney Channel +1 FR
+http://tv.gloryiptv.itv.world:8080/fh41r35sss/ghtyuio67/12947?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney Channel FHD FR
+http://tv.gloryiptv.itv.world:8080/fh41r35sss/ghtyuio67/5681?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney Cinema FHD FR
+http://tv.gloryiptv.itv.world:8080/fh41r35sss/ghtyuio67/12946?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney Junior FHD FR
+http://tv.gloryiptv.itv.world:8080/fh41r35sss/ghtyuio67/5679?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney XD FHD FR
+http://tv.gloryiptv.itv.world:8080/fh41r35sss/ghtyuio67/16920?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney.Channel
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2403.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney.Cinema
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2401.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",Disney.XD
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2399.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",EURONEWS HD
+http://epiciptvrestreamer.com:8000/kami/kami/180?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport;Undefined",Equidia.Live
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2397.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Equidia.Live
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2397.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport;Undefined",Equipe21
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/2396.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Sport",Equipe21
+http://red.ipfox.org:8080/live/tigerag_xZxKZa/CPz99heC/2396.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News;Undefined",FR | France 24 Arabic,France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/2F8l6eE.jpg" group-title="Undefined",FR | France 3 Alpes,France 3 Alpes
+https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/t1ynZ3x.png" group-title="Undefined",FR | France 3 Rhône-Alpes,France 3 Rhône-Alpes
+https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/wX6nQAk.jpg" group-title="Undefined",FR | France Info,France Info
+https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="Undefined",FR | France Ô,France Ô
+https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="Undefined",FR | Gong,GONG
+http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/mMWq0Kn.png" group-title="Undefined",FR | Gulli,Gulli
+https://gulli-hls-live.akamaized.net/gulli.isml/gulli-audio102_fre=64000-video=900000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="Undefined",FR | LCI,LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/QjjVd1M.jpg" group-title="Undefined",FR | MDL,MDL
+http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="Undefined",FR | MYComedy,MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Undefined",FR | TF1,TF1
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Undefined",FR | TF1 Séries Films,TF1 Séries Films,TF1 S�ries Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Undefined",FR | TFX,TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GR" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="Undefined",FR | TMC,TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/6Iw1YRL.png" group-title="Undefined",FR | TZiK,TZiK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/YXUMEbi.png" group-title="Undefined",FR | viaMirabelle,viaMirabelle
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="https://i.imgur.com/kmna9PU.png" group-title="Undefined",FR | viàMATÉLÉ,viàMATÉLÉ
+https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 2 FHD
+http://jockeriptv.com:8080/navaro/navaro/511?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 2 FHD
+http://silvertv.net:1997/Majdi/Majdi123/69294?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 2 HD
+http://silvertv.net:1997/Majdi/Majdi123/5173?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR;GB" tvg-logo="" group-title="Undefined",France 24 (ENG),FRANCE 24 EN HD
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 24 HD
+http://epiciptvrestreamer.com:8000/kami/kami/179?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 2HD
+http://epiciptvrestreamer.com:8000/kami/kami/178?checkedby:hlscat.com
+#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="Undefined",FRANCE 3 FHD
+http://silvertv.net:1997/Majdi/Majdi123/18338?checkedby:hlscat.com
