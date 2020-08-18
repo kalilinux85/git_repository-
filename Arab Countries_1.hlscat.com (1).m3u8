@@ -1,0 +1,202 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="http://logo.ddnb.tn/logochanel/24_Little_Hours_2020_en.mp4.png" group-title="Undefined",24 Little Hours
+http://vvn.neoredi.com/vod/24_Little_Hours_2020_en.mp4?code=1501309316704233&key=37308&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",2M Maroc
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6714.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="https://i.imgur.com/M0JqHa9.png" group-title="Local;Undefined",7 Murcia,sp:Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="" group-title="Undefined",7 Stars
+http://82.212.74.3:8000/live/hls/7506.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="http://logo.ddnb.tn/logochanel/A_Beautiful_Day_In_The_Neighborhood_2019_FR.mp4.png" group-title="Undefined",A Beautiful Day In The Neighborhood
+http://vvn.neoredi.com/vod/A_Beautiful_Day_In_The_Neighborhood_2019_FR.mp4?code=1501309316704233&key=37308&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="http://logo.ddnb.tn/logochanel/A_New_Christmas_2019_en.mp4.png" group-title="Undefined",A New Christmas
+http://vvn.neoredi.com/vod/A_New_Christmas_2019_en.mp4?code=1501309316704233&key=37308&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="http://logo.ddnb.tn/logochanel/A_Score_To_Settle_2019_FR.mp4.png" group-title="Undefined",A Score To Settle
+http://vvn.neoredi.com/vod/A_Score_To_Settle_2019_FR.mp4?code=1501309316704233&key=37308&checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ;MY" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="General;Undefined",ABN SAT (1280×720),ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News;Undefined",AE | Al Hadath,Al Arabiya Al Hadath,Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_1080p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="Undefined",AE | Dubai Zaman,Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman&checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="Undefined",AE | Hawas TV,Hawas TV,HAWAS TV (1280×720)
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9Bun2IX.png" group-title="Undefined",AE | Majid TV,Majid TV
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="Undefined",AE | Sharqiya from Kalba TV,Sharqiya from Kalba TV
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;PS" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="Undefined",Ajyal TV,AJYAL TV (1920×1080)
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL Anwar
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6460.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL Arabiya HD,alarabiya,AR:AL Arabiya HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist_720p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",AL FADY TV (1920×1080)
+http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",AL HAYAT (1280×720)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="EG;MY" tvg-logo="" group-title="Undefined",Al Horreya,AL HORREYA TV (1920×1080),EG | Al Horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ;MY" tvg-logo="" group-title="News;Undefined",Al Hurra,AL HURRA (1280×720)
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",AL HURRA IRAQ (1280×720)
+http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL JANOUBIA TV
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6782.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL Jazeera Mubashe,AL Jazeera Mubasher,AR:AL Jazeera Mubashe
+https://edge-1192-ch-gv.filmon.com/live/3032.high.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",AL KARMA TV (1920×1080)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 1 (1024×576),Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;Undefined",AL KASS 2 (1024×576),Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 3 (1024×576),Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",AL KASS 4 (1024×576),Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4&checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;QA" tvg-logo="" group-title="Sport;Undefined",AL KASS 5 (1024×576),Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL KAWTHAR
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6464.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",AL MAGD TV (1920×1080)
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="JO;MY" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="Undefined",Al Mamlaka TV,AL MAMLAKA TV (1920×1080)
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",AL RAFIDAIN (1280×720)
+http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_720p/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",AL RAI (1920×1080)
+https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL RASHEED TV
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6467.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL Rafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;AE" tvg-logo="https://i.imgur.com/6Er1lh6.png" group-title="Undefined",AL SHARJAH KALBA (1920×1080),Sharqiya from Kalba TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL SHARQIYA
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6468.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL Sharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL Sharqiya نيوز
+http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/chunklist_w1655005970_b340000_sleng.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AL-MUSTAKILA
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6473.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ALAhly
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5514.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ALJADEED
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5401.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ALMAAREF
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6477.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ALResala
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6046.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ALSahraa
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6042.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ALhayat
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5496.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ALmasriya
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5480.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",ALoula
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5478.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR ENGLISH+
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/143/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR NICKELODEAN
+http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/541/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR-Alhurra IRAQ
+http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8?v=&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR-Alsharqiya tv
+http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8?v=&checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",AR-Libya-alhadath,Libya Al Hadath
+http://starmena.ercdn.net/libya-alhadath/libya-alhadath_480p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR-Libya-news
+http://starmena.ercdn.net/libyaschannel/libyaschannel.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="LB" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" group-title="Undefined",AR-Otv-Lebanon+,OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Mayadeen,AR:Al Mayadeen
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b900000_t64NDgwcA==.m3u8?v=&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Alaraby TV,AR:Alaraby TV,makkah
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR:DW Arabic,DW Arabic
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR:France24,France24
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR:RT Arabic (Russia Today),RT Arabic (Russia Today)
+https://rt-arab.secure.footprint.net/1104_2500Kb.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport",Abu Dhabi Sports,Abu Dhabi Sports 1,Abu Dhabi Sports 1 HD (Opt-1),Abu Dhabi Sports1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:hlscat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="http://logo.ddnb.tn/logochanel/Ad_Astra_2019_en.mp4.png" group-title="Undefined",Ad Astra
+http://vvn.neoredi.com/vod/Ad_Astra_2019_en.mp4?code=1501309316704233&key=37308&checkedby:hlscat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="https://i.imgur.com/KJTEVbf.png" group-title="Undefined",Aden TV,YE | Aden TV
+https://master.starmena-cloud.com/hls/aden.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Aghapy TV live قناة أغابي
+http://68.235.60.118:1935/aghapy.tv/aghapy.smil/chunklist_w1321939483_b1400000_slar_t64SEQ=.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Aoula Inter
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6715.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="SA" tvg-logo="https://i.imgur.com/xhlZOq5.png" group-title="Undefined",Al Arabiya,SA | Al Arabiya
+https://shls-alarabiya-prod.shahid.net/alarabiya-prod_1.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Forat
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6463.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Insen TV
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6781.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Jazeera
+http://46.60.1.82:8081/live/hdmi2/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Undefined",Al Jazeera Documentary,QA | Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="QA" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="Undefined",Al Jazeera English,QA | Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Undefined",Al Khalij TV,Al Khalij TV (1280×720)
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Maghribia
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6716.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Masar
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6465.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Ons TV
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6717.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IQ" tvg-logo="https://i.imgur.com/x5buqzt.jpg" group-title="General",Al Rafidain HQ
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Al Sumaria TV
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6469.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="MY;SA" tvg-logo="" group-title="Undefined",Al Wesal TV,WESAL TV (1280×720)
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="OM" tvg-logo="https://i.imgur.com/onPpSSC.png" group-title="Undefined",Al-Istiqama,Al-Istiqama TV,OM | Al-Istiqama
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AlGhad
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5406.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AlGhadeer
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6475.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AlKahera W ELNas
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5498.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AlKahera W ELNas 2
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5499.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AlManar
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5398.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AlNahar
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5515.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AlNahar Drama
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5495.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="PS" tvg-logo="" group-title="Undefined",AlQuds Today
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/15310.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="YE" tvg-logo="https://i.imgur.com/53g9WRj.png" group-title="Undefined",Alerth TV,YE | Alerth TV
+http://82.212.74.2:8000/live/hls/7307.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Alfajertv 2
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Alfateh TV,E قناه الفتح
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Algeria 4
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/10224.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Algeria 5
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/10223.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Algeria A3 HD
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/10222.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Alhayat Muslsalat
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/5497.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Alhurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8?v=1558393494&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="http://logo.ddnb.tn/logochanel/Alien_Expedition_2018_FR.mp4.png" group-title="Undefined",Alien Expedition
+http://vvn.neoredi.com/vod/Alien_Expedition_2018_FR.mp4?code=1501309316704233&key=37308&checkedby:hlscat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Alitejah TV
+http://red.ipfox.org:8080/live/tigerag_uFZ5wd/3dL1WNjy/6476.m3u8?checkedby:hlscat.com
